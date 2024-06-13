@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas Vindas ao seu perfil 💜
 
-<!--
-**Viihrochae1/Viihrochae1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Vitória Régia
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você ode entrar em contato comigo 📫
+
+00001114672063sp@al.educacao.sp.gov.br 
+
+vih_rochae
+
+![image](https://github.com/Viihrochae1/Viihrochae1/assets/172657623/fb985e26-6e3c-42ad-bd29-0e306f5b4c90)
