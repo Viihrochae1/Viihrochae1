@@ -1,4 +1,4 @@
-## Boas Vindas ao seu perfil 💜
+## Boas Vindas ao meu perfil 💜
 
 Meu nome é Vitória Régia
 
