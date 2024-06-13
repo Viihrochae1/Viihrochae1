@@ -6,7 +6,7 @@ Meu nome é Vitória Régia
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você ode entrar em contato comigo 📫
+### Você pode entrar em contato comigo 📫
 
 00001114672063sp@al.educacao.sp.gov.br 
 
